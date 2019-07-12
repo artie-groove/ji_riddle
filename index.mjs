@@ -7,7 +7,7 @@
 
 // Given a two-dimensional array filled with random binary values
 // count the number of "islands" formed by a set of perpendicular
-// adjacent cells containing numbers "1"
+// adjacent cells containing number "1"
 
 
 // Sample input
