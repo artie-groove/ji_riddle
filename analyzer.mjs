@@ -1,3 +1,7 @@
+// The idea is to "fly" across the map left to right, top to bottom
+// dropping into a cell and initiating a recursive lookaround and
+// logging every visited cell to a set
+
 export default countIslands;
 
 // Discovers islands on a given map
